@@ -41,11 +41,13 @@
 
   .col-1 {
     float: none;
+    margin-left: 0;
     width: 100%;
   }
 
   .col-2 {
     float: none;
+    margin-left: 0;
     width: 100%;
   }
 }
