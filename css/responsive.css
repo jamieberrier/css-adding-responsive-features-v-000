@@ -1,6 +1,7 @@
-@media (){
+.wrapper {
 
 }
-.wrapper{
-  
+
+@media () {
+  .wrapper { width: 90%; }
 }
