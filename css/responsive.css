@@ -73,6 +73,10 @@ selectors so they remain in line with each other. */
     width: auto;
   }
 
+  #logo { padding: 60px 0 0; }
+
+  #social { top: 60px;}
+
   #logo h2 { display: none; }
 
   #social a { display: inline-block; }
