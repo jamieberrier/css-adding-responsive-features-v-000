@@ -54,7 +54,7 @@ saying "Exceptional Realty Group", leaving the icon visible.
 Third, we want to adjust the spacing on the logo and social
 selectors so they remain in line with each other. */
 @media only screen and (max-width: 700px) {
-  #navbar nav { display: none; }
+  #navbar nav a { display: none; }
   #navbar nav a.menu-icon { display: inline-block; }
 
 }
