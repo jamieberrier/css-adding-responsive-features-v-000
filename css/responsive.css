@@ -55,6 +55,8 @@ Third, we want to adjust the spacing on the logo and social
 selectors so they remain in line with each other. */
 @media only screen and (max-width: 700px) {
   #navbar nav a { display: none; }
+  
   #navbar nav a.menu-icon { display: inline-block; }
+
   #logo h2 { display: none; }
 }
