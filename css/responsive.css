@@ -1,4 +1,5 @@
 @media only screen and (max-width: 1108px) {
+
   .wrapper { width: 90%; }
 
   #social {
@@ -7,11 +8,12 @@
     right: 4px;
     width: auto;
   }
-  
+
   #social a { display: inline-block; }
 }
 
 @media only screen and (max-width: 900px) {
+
   body { font-size: 85%; }
 
   #logo h1 {
@@ -31,6 +33,7 @@
 }
 
 @media only screen and (max-width: 750px) {
+
   #navbar nav a { font-size: 0.9em; }
 
   .col-3 p {
@@ -56,6 +59,7 @@ saying "Exceptional Realty Group", leaving the icon visible.
 Third, we want to adjust the spacing on the logo and social
 selectors so they remain in line with each other. */
 @media only screen and (max-width: 700px) {
+  
   #navbar nav a { display: none; }
 
   #navbar nav a.menu-icon { display: inline-block; }
