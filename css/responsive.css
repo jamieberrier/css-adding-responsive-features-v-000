@@ -65,7 +65,13 @@ selectors so they remain in line with each other. */
 
   #navbar nav a { display: none; }
 
-  #navbar nav a.menu-icon { display: inline-block; }
+  #navbar nav a.menu-icon {
+    display: block;
+    float: right;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    width: auto;
+  }
 
   #logo h2 { display: none; }
 
