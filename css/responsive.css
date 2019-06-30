@@ -50,7 +50,10 @@
 
   .border-right { border: 0; }
 
-  #details div { height: auto; }
+  #details div {
+    height: auto;
+    padding-bottom: 
+  }
 }
 /* Within this breakpoint, we are going to hide all of the
 navigation links, and display the "hamburger menu" icon that
