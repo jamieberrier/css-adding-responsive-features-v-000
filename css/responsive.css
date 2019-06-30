@@ -60,5 +60,5 @@ selectors so they remain in line with each other. */
 
   #logo h2 { display: none; }
 
-  #social a { display: inline-block; }
+  #social a { display: inline; }
 }
