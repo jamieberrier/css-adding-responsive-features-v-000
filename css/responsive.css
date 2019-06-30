@@ -43,11 +43,7 @@
     width: 100%;
   }
 
-  .border-right {
-    border: 0;
-  }
+  .border-right { border: 0; }
 
-  #details div {
-    height: auto;
-  }
+  #details div { height: auto; }
 }
