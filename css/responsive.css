@@ -2,7 +2,11 @@
 
 @media only screen and (max-width: 1108px) {
   .wrapper { width: 90%; }
-  social {
-    
+  #social {
+    position: fixed;
+    top: 163px;
+    right: 20px;
+    width: 40px;
+    z-index: 2;
   }
 }
